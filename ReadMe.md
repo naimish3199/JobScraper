@@ -1,0 +1,1 @@
+JobScraper is a Python-based web scraper pipeline designed to automate the process of collecting job listings from naukri.com. This tool allows users to scrape job postings from and store the data in a structured format for further analysis.
