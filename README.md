@@ -1,1 +1,1 @@
-This repository contains Python-based web scraper pipeline designed to automate the process of collecting job listings from naukri.com. This tool allows users to scrape job postings and store the data in a structured format for further analysis.
+This repository contains Python-based web scraper pipeline designed to automate the process of collecting job listings (given a skill/keyword) from naukri.com. This tool allows users to scrape job postings and store the data in a structured format for further analysis.
